@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm Jesús
 
+### I am a software engineer learning about DevOps as I've become really interested in it lately. I am currently working on completing the [Coursera Course: Preparing for Google Cloud Certification: Cloud DevOps Engineer](https://www.coursera.org/professional-certificates/sre-devops-engineer-google-cloud)!
+
+#### Fun fact: I am hoping to move out of Boston someday and explore a new city.
 <!--
 **jay-garcia/jay-garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
