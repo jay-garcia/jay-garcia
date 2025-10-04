@@ -1,11 +1,7 @@
 ## Hi there 👋 I'm Jesús
 
-💻 Software Engineer | Aspiring Cloud & DevOps Engineer
-☁️ Currently exploring Google Cloud & Kubernetes
-📚 Learning through the Coursera Cloud DevOps Engineer Specialization
+💻 Software Engineer | Cloud & DevOps Practitioner ☁️ | 6+ Years Development Experience
 
-### I’m a Software Engineer with 6 years of development experience, currently diving deep into the world of DevOps and Cloud Engineering. My recent focus has been on Google Cloud Platform (GCP) and modern DevOps practices such as containerization, orchestration, and CI/CD automation.
+### I’m a Software Engineer with 6 years of professional development experience, now specializing in Cloud and DevOps engineering. I have hands-on experience with Google Cloud Platform (GCP), Microsoft Azure, Kubernetes, containerization, and CI/CD automation, delivering scalable and reliable solutions.
 
-To sharpen my skills, I’m actively working through the [Coursera specialization “Preparing for Google Cloud Certification: Cloud DevOps Engineer”](https://www.coursera.org/professional-certificates/sre-devops-engineer-google-cloud)!
-
-I love learning by doing and am excited to continue growing at the intersection of software development and cloud operations.
+I continuously strengthen my expertise through practical projects and advanced training, including the Coursera “[Preparing for Google Cloud Certification: Cloud DevOps Engineer” specialization](https://www.coursera.org/professional-certificates/sre-devops-engineer-google-cloud). I thrive at the intersection of software development and cloud operations, building robust systems that are ready for production.
