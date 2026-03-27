@@ -17,10 +17,10 @@
 ## 🛠️ Tech Stack
 
 **Languages**  
-Python · SQL · Java · Bash  
+Python · Java · Bash · HTML · CSS  
 
 **Data & Analytics**  
-Snowflake · Databricks · dbt  
+Snowflake · SQL · dbt  
 
 **Cloud & DevOps**  
 Azure · AKS · GCP · Terraform · Docker · Harness  
