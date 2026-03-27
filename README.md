@@ -1,7 +1,50 @@
-## Hi there 👋 I'm Jesús
+# 👋🏽 Hi there, I'm Jesús Garcia
 
-💻 Software Engineer | Cloud & DevOps Practitioner ☁️ | 6+ Years Development Experience
+💻 Software Engineer with 6+ years of experience building data-driven applications<br>
+📊 Specialized in SQL, data analysis, and data-driven features<br>
+⚙️ Experienced in debugging, optimizing, and supporting production systems  
 
-### I’m a Software Engineer with 6 years of professional development experience, now specializing in Cloud and DevOps engineering. I have hands-on experience with Google Cloud Platform (GCP), Microsoft Azure, Kubernetes, containerization, and CI/CD automation, delivering scalable and reliable solutions.
+---
 
-I continuously strengthen my expertise through practical projects and advanced training, including the Coursera [“Preparing for Google Cloud Certification: Cloud DevOps Engineer” specialization.](https://www.coursera.org/professional-certificates/sre-devops-engineer-google-cloud) I thrive at the intersection of software development and cloud operations, building robust systems that are ready for production.
+## 🚀 What I Do  
+- Debug and resolve **data-related production issues**  
+- Write and optimize complex **SQL queries** for analytics and application use cases  
+- Build and maintain **internal dashboards and reporting tools**  
+- Work with large datasets to uncover insights and improve system performance  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**  
+Python · SQL · Java · Bash  
+
+**Data & Analytics**  
+Snowflake · Databricks · dbt  
+
+**Cloud & DevOps**  
+Azure · AKS · GCP · Terraform · Docker · Harness  
+
+**Tools**  
+Git · VS Code · kubectl  
+
+---
+
+## 📂 Featured Projects
+
+### 🏡 Airbnb Analytics Engineering Project (dbt)
+- Designed a layered data model (staging → intermediate → marts)  
+- Implemented tests, documentation, and data quality checks  
+
+---
+
+## 🎯 Focus Areas
+- Data modeling & transformations  
+- Query performance optimization  
+- Data reliability & debugging  
+- Backend systems powered by data  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/jecktech
